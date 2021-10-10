@@ -11,8 +11,6 @@ Black Mesa employs in its facility two main groups of civilian employees: scienc
 
 
 
-[Link](url) and ![Image](src)
-```
 
 Hiring, See The [Qualifications](https://about:blank).
 
