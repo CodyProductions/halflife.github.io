@@ -1,37 +1,23 @@
 ## Black Mesa
 
-You can use the [editor on GitHub](https://github.com/CodyProductions/halflife.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Black Mesa. Black Mesa is an American research corporation whose headquarters are located in the Black Mesa Research Facility, in the New Mexico desert.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Black Mesa undertakes research in various fields from standard scientific research to radiation, rocketry, theoretical physics, lasers, experimental propulsion, hydraulics, robotics, hydroelectricity, genetics, zoology, applied mathematics, and a very wide spectrum of research into chemistry and all manner of physics research. The research is mostly conducted in the Black Mesa Research Facility and includes both pure research and applied science.
 
-### Markdown
+### Personnel
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Black Mesa employs in its facility two main groups of civilian employees: science personnel and security personnel, along with various other inhabitants including administrative personnel, service personnel and occasionally the employees' families. The base also keeps a small military presence.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Hiring, See The [Qualifications](https://about:blank).
 
-### Jekyll Themes
+### How do we work?
+
+Black Mesa employs in its facility two main groups of civilian employees: a science personnel and a security personnel, along with various other inhabitants including administrative personnel, service personnel and occasionally the employees' families. The base also keeps a small military presence.
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CodyProductions/halflife.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
